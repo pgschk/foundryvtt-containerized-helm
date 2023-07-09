@@ -20,7 +20,8 @@ foundryvtt-containerized` to see the charts.
 To install the foundryvtt-containerized chart:
 
 ```
-helm install my-foundryvtt-containerized foundryvtt-containerized/foundryvtt-containerized --set foundryVTTDownloadURL="<your timed download URL>"
+helm install my-foundryvtt-containerized foundryvtt-containerized/foundryvtt-containerized \
+ --set foundryVTTDownloadURL="<your timed download URL>"
 ```
 
 To uninstall the chart:
