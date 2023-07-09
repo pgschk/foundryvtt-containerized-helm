@@ -1,3 +1,6 @@
+
+# MOVED TO https://github.com/pgschk/helm-charts/tree/main/charts/foundryvtt-containerized
+
 # Foundry VTT containerized Helm chart
 
 Helm chart for https://github.com/pgschk/foundryvtt-containerized.
